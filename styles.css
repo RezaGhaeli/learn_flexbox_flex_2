@@ -16,3 +16,9 @@
             min-width: 50px; /* Base size for items */
             min-height: 50px;
         }
+
+        footer {
+          margin-top: 40px;
+          text-align: center;
+          color: #888;
+        }
